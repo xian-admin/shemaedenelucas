@@ -36,3 +36,4 @@ ul.clean li::before{content:"";position:absolute;left:0;top:.95em;width:9px;heig
 .links a{display:block;padding:14px 0;border-top:1px solid var(--line);text-decoration:none;font-weight:600}
 footer{padding:32px 0;color:var(--muted);font-size:.95rem;border-top:1px solid var(--line)}
 @media(max-width:700px){.hero .wrap,.about{grid-template-columns:1fr}.hero img{order:-1;max-width:220px}.about img{max-width:220px}.job{grid-template-columns:1fr}nav a{margin:0 14px 0 0}}
+.job .used{margin-top:10px;color:var(--teal);font-weight:600;font-size:.95rem}
